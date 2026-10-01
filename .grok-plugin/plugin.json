@@ -1,0 +1,13 @@
+{
+  "name": "cuesync",
+  "version": "0.1.0",
+  "description": "Inspect CueSync meetings and reports and manage bounded, permitted meeting attendance.",
+  "author": {
+    "name": "Dello AI FZC"
+  },
+  "homepage": "https://cuesync.co",
+  "license": "MIT",
+  "keywords": [
+    "cuesync"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cuesync": {
+      "type": "http",
+      "url": "https://cuesync.co/mcp"
+    }
+  }
+}
